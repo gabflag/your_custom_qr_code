@@ -17,8 +17,10 @@ To use:
     Enter the name of the file to be saved
     Click on generate
 
-# Exemplo:
+# Exemple:
 
 ![image](https://github.com/gabflag/your_custom_qr_code/assets/95552879/3c83264e-4cc6-483c-8bfa-2e6460032513)
 
 ![image](https://github.com/gabflag/your_custom_qr_code/assets/95552879/d28d2801-9fb1-4311-974d-130d1b55d9a0)
+
+https://github.com/lincolnloop/python-qrcode
